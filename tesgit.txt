@@ -1,2 +1,3 @@
 Ini adalah file untuk mencoba penggunaan github
-Tutorialnya diambil dari WPU UNPAS
+Tutorialnya diambil dari WPU Unpas di Youtube
+Semoga bisa lebih mengerti penggunaan git dengan tutorial ini
